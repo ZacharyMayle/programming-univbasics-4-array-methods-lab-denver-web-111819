@@ -4,6 +4,7 @@ element1 = "wow"
 element2 = "tardis"
 array.include?("wow")
 array.include?("tardis")
+array.include?("wow")
 end
 
 def using_sort(array)
